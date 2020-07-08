@@ -10,8 +10,9 @@
          .img2-container {
     padding: 1em;
         position: absolute;
-        top: 53%;
-        left: 34%;
+        text-align:middle:
+                vertical-align:middle;margin:-250px 550px;
+
         
    }
     </style>
