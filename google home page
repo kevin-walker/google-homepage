@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+      .img-container {
+        vertical-align:middle;margin:220px 550px;
+        }
+         .img2-container {
+    padding: 1em;
+        position: absolute;
+        top: 53%;
+        left: 34%;
+        
+   }
+    </style>
+  </head>
+  <body>
+    
+    <main>
+     <div class="img-container">
+    <img alt="Google" height="92" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
+    </div>
+    <div class="img2-container">
+    <label for="gsearch">Search Google:</label>
+   <input type="search" id="gsearch" name="gsearch" >
+   </div>
+    </main>
+    <footer></footer>
+  </body>
+</html>
